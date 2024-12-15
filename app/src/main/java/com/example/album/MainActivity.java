@@ -1,4 +1,4 @@
-package com.example.photos;
+package com.example.album;
 
 import android.os.Bundle;
 import android.view.View;
